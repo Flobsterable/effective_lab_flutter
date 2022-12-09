@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Darcula Theme from IntelliJ",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.preferredDarkColorTheme": "Darcula Theme from IntelliJ",
+    "workbench.preferredHighContrastColorTheme": "Darcula Theme from IntelliJ",
+    "typescript.inlayHints.enumMemberValues.enabled": false,
+    "terminal.integrated.tabs.defaultColor": null,
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true
+}
